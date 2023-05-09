@@ -15,7 +15,7 @@
 
 - A Front-end Developer & THREEJS enthusiast.
 - A graphic designer and anime lover. 
-- 
+
 
 ⭐️ From [WASHINGTON MAINA](https://github.com/washington254)
 
@@ -51,6 +51,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:washington256@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:washington256@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-washingtonmaina-blue?style=flat-square&logo=gmail"></a>
 </p>
 
