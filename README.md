@@ -7,8 +7,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp;A Front-end Developer & THREEJS enthusiast..
-- 🎓 &nbsp; Studying software Engeneering at University of KCAU.
+- 🤔 &nbsp;A Front-end Developer & THREEJS enthusiast.
+- 🎓 &nbsp; Studying software Engeneering at  KCAU.
 - 💼 &nbsp; Working as a freelancer in upwork.
 - 🌱 &nbsp; Currently working on some of my cool side projects based on Web Development and 3D Programming.
 - ✍️ &nbsp; I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
