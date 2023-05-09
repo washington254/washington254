@@ -7,18 +7,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp;A Front-end Developer & THREEJS enthusiast..
 - 🎓 &nbsp; Studying software Engeneering at University of KCAU.
 - 💼 &nbsp; Working as a freelancer in upwork.
 - 🌱 &nbsp; Currently working on some of my cool side projects based on Web Development and 3D Programming.
 - ✍️ &nbsp; I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-
-- A Front-end Developer & THREEJS enthusiast.
-- A graphic designer and anime lover. 
-
-
-⭐️ From [WASHINGTON MAINA](https://github.com/washington254)
-
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -53,4 +46,6 @@
 <p align="center">
 <a href="mailto:washington256@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-washingtonmaina-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+⭐️ From [WASHINGTON MAINA](https://github.com/washington254)
 
