@@ -17,11 +17,7 @@
 - A graphic designer and anime lover. 
 - 
 
-⭐️ From [Darshan Jain](https://github.com/washington254)
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Aditya.</h2>
+⭐️ From [WASHINGTON MAINA](https://github.com/washington254)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
